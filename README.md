@@ -5,11 +5,16 @@
 </h1>
 
 <p align="center">
+  
+
   <img src="https://komarev.com/ghpvc/?username=RookiexCookie&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="rookiexcookie" />
 </p>
 
 <p align="center">
    <b> ⚡ "Trust me, I did the math." — BT-7274 </b>
+  <br>
+  <br>
+  <img src="https://github.com/user-attachments/assets/d5f9f7c0-4bf9-4341-b24b-ce8ed9d1d1e1" alt="Bt">
 </p>
 
 ---
@@ -47,7 +52,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RookiexCookie&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&currStreakLabel=36BCF7" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=RookiexCookie&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&currStreakLabel=36BCF7" alt="streak graph" />
 </div>
 
 ---

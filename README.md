@@ -23,7 +23,6 @@
 
 - 🎓 I'm a **2nd Year College Student** passionate about Software Development.
 - 🧠 Currently building **"Project BT-7274"** (A Desktop AI Assistant).
-- 🔭 I’m currently working on **Generative Art & RPG Web Games**.
 - ⚡ Fun fact: I code better when listening to Lofi or Titanfall OST.
 
 ---
